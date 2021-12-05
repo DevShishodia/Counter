@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(236, 210, 171);
+}
+h1{
+    color: tomato;
+    text-align: center;
+    font-size: 70px;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+p{
+    color: rgb(83, 31, 226);
+    font-size: 130px;
+    text-align: center;
+    margin-top: 80px;
+}
+button{
+    width: 150px;
+    padding: 10px;
+    background-color: rgb(13, 177, 226);
+    color:rgb(238, 5, 5);
+    font-size: 35px;
+    font-family: 'Overlock SC', cursive;
+    border: 0px;
+    border-radius: 20px;
+    margin: 15px
+}
+button:hover{
+    background-color: rgb(197, 226, 221);
+    color: rgb(221, 94, 3);
+}
+.button{
+    display: inline;
+    margin: 0;
+    margin-left: 500px;
+}
